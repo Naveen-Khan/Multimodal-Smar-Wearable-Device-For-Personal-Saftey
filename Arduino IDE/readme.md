@@ -32,6 +32,8 @@ Its job is to:**
 🔹 Step 2 — Add ESP32 Board
 Arduino IDE →
 File → Preferences → Additional Board URLs:
+
 https://espressif.github.io/arduino-esp32/package_esp32_index.json
+
 Then:
 Tools → Board → Boards Manager → “ESP32” → Install
