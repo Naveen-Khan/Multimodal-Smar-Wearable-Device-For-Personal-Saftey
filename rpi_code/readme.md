@@ -31,15 +31,13 @@ Step 1: Flash Raspberry Pi OS
         *	Set locale settings<br>
 4.	Click Write and wait for completion
 
-**Step 2: Initial Configuration**
- First boot - complete setup
- 
+# First boot - complete setup
 sudo raspi-config
 
- Recommended settings:
- 1. System Options → Password (change default)
- 2. Interface Options → Enable Camera
- 3. Interface Options → Enable SSH
- 4. Performance Options → Overclock (optional)
- 5. Advanced Options → Memory Split (set to 256MB)
- 6. Localisation Options → Set timezone
+# Recommended settings:
+# 1. System Options → Password (change default)
+# 2. Interface Options → Enable Camera
+# 3. Interface Options → Enable SSH
+# 4. Performance Options → Overclock (optional)
+# 5. Advanced Options → Memory Split (set to 256MB)
+# 6. Localisation Options → Set timezone
