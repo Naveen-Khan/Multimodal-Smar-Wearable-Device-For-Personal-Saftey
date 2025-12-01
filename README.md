@@ -9,7 +9,7 @@ The system detects emergencies via three input channels:
 
 
 When triggered:
-•	Raspberry Pi   **captures an evidence image**
+•	Raspberry Pi   **captures an evidence image*
 •	ESP32 reads **live GPS coordinates**
 •	ESP32 sends **SMS with event type + Google Maps link**
 •	System returns to monitoring mode automatically
