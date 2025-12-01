@@ -23,10 +23,10 @@ This makes it ideal for:
 
 
 # 🔧 Hardware Used
-•	Raspberry Pi 4 model b
-•	ESP32
-•	OV5647 Camera
-•	VR3 Voice Recognition Module
-•	NEO-6M GPS
-•	GSM800L
-•	Buttons, Wires, Power Unit
+1.	Raspberry Pi 4 model b
+2. ESP32
+3. OV5647 Camera
+4. VR3 Voice Recognition Module
+5. NEO-6M GPS
+6. GSM800L
+7. Buttons, Wires, Power Unit
