@@ -30,3 +30,24 @@ This makes it ideal for:
 5. NEO-6M GPS
 6. GSM800L
 7. Buttons, Wires, Power Unit
+
+
+
+⭐ 2. Key Features
+ 🔫 Weapon Detection using AI (YOLOv8 & YOLO11)
+- Gun and knife detection  
+- High accuracy using custom-trained model  
+- Real-time inference on Raspberry Pi 4  
+- Evidence image captured instantly  
+
+ 🎤 Voice Command Recognition (VR3)
+Recognizes multilingual commands:
+- Help (English)
+- Bachao (Urdu)
+- Maddad (Urdu)  
+No internet required (hardware-based recognition).
+
+### 🚨 **Panic Button Trigger**
+- Instant emergency detection  
+- Works even if AI or voice commands are not triggered  
+
