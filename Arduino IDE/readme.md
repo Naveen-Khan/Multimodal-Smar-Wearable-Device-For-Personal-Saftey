@@ -29,3 +29,12 @@ Step 2: Add ESP32 Board Support
 3. In "Additional Board Manager URLs", add:
       https://espressif.github.io/arduino-esp32/package_esp32_index.json
 4. Click OK
+
+Step 3: Install ESP32 Boards<li>
+Go to Tools → Board → Boards Manager<li>
+
+Search for "esp32"<li>
+
+Install "ESP32 by Espressif Systems"<li>
+
+Wait for installation to complete
