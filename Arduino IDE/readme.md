@@ -3,11 +3,11 @@
 This ESP32 module serves as the central alert management system for the Multimodal Wearable Security Device. It coordinates all emergency triggers, location tracking, and communication functions, operating independently without internet connectivity.
 
 <H3>Primary Functions:</H3>
-1. **Emergency Trigger Processing** – Receives alerts from Raspberry Pi via TCP <li>
-2. **GPS Data Acquisition** – Reads real-time coordinates from NEO-6M module<li>
-3. **SMS Alert Transmission** – Sends emergency messages via GSM800L<li>
-4. **Manual Input Handling** – Processes panic button and voice commands<li>
-5. **System Coordination** – Manages WiFi communication with Raspberry Pi<li>
+1. Emergency Trigger Processing – Receives alerts from Raspberry Pi via TCP <li>
+2. GPS Data Acquisition – Reads real-time coordinates from NEO-6M module<li>
+3. SMS Alert Transmission – Sends emergency messages via GSM800L<li>
+4. Manual Input Handling – Processes panic button and voice commands<li>
+5. System Coordination – Manages WiFi communication with Raspberry Pi<li>
 
 **The ESP32 processes emergency events and sends a detailed alert including:**
 •	Event Type (Weapon / Voice Command / Panic Button)
