@@ -30,8 +30,12 @@ Step 2: Add ESP32 Board Support
       https://espressif.github.io/arduino-esp32/package_esp32_index.json
 4. Click OK
 
-Step 3: Install ESP32 Boards<li>
+Step 3: Install ESP32 Boards
 1. Go to Tools → Board → Boards Manager
 2. Search for "esp32"
 3. Install "ESP32 by Espressif Systems"
 4. Wait for installation to complete
+
+Step 4: Install Required Libraries
+Go to Sketch → Include Library → Manage Libraries
+Install these libraries (search and install):
