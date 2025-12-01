@@ -49,3 +49,7 @@ Libraries
   HTTPClient<li>
   VoiceRecognition
 
+Step 5: Board Configuration
+
+Select Board: Tools → Board → ESP32 Dev Module
+
