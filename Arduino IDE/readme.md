@@ -16,38 +16,14 @@ This ESP32 module serves as the central alert management system for the Multimod
  Timestamp<li>
 
 
-# ▶️ 5. HOW TO RUN THE ESP32 CODE (Step-by-Step)
-🔹 Step 1 — Install Arduino IDE Download from:
-       https://www.arduino.cc/en/software
-       
-🔹 Step 2 — Add ESP32 Board
-   Arduino IDE → File → Preferences → Additional Board URLs:
+# ⚙️ SOFTWARE SETUP
+Step 1: Install Arduino IDE
+Download and install from:
+📥 https://www.arduino.cc/en/software
 
-       https://espressif.github.io/arduino-esp32/package_esp32_index.json
+Step 2: Add ESP32 Board Support
+Open Arduino IDE
 
-Then:
-        Tools → Board → Boards Manager → “ESP32” → Install
+Go to File → Preferences
 
-🔹 Step 3 — Install Required Libraries
-
-Go to:
-
-Sketch → Include Library → Manage Libraries
-
-Install:
-
-TinyGPSPlus
-
-ArduinoJson (optional)
-
-ESP32 core (already installed)
-
-🔹 Step 4 — Connect ESP32
-
-Select:
-
-Tools → Board → ESP32 Dev Module
-Tools → Port → COM
-🔹 Step 6 — Upload Code
-
-Click Upload.
+In "Additional Board Manager URLs", add:
