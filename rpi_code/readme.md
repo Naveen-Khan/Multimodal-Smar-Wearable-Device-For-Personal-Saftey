@@ -61,16 +61,16 @@ sudo apt install -y git curl wget vim tmux htop
 **Step 4: Install Python Dependencies**
 
 
-# Install Python and pip
+ Install Python and pip
 ```bash
 sudo apt install -y python3 python3-pip python3-venv
 ```
-# Create virtual environment
+ Create virtual environment
 ```bash
 python3 -m venv ~/security-env
 source ~/security-env/bin/activate
 ```
-# Upgrade pip
+ Upgrade pip
 ```bash
 pip install --upgrade pip
 ```
