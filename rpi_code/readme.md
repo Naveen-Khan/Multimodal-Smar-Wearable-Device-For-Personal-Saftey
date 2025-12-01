@@ -94,3 +94,7 @@ weapon-detection-rpi/
 ├── samples/                    # Test images/videos
 └── README.md                   # This file
 ```
+ **Run Detection Script**
+ ```bash
+python3 weapon_detection.py
+```
