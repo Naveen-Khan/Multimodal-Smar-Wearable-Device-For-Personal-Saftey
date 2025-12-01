@@ -31,10 +31,10 @@ Step 2: Add ESP32 Board Support
 4. Click OK
 
 Step 3: Install ESP32 Boards<li>
-Go to Tools → Board → Boards Manager<li>
+1. Go to Tools → Board → Boards Manager<li>
 
-Search for "esp32"<li>
+2. Search for "esp32"<li>
 
-Install "ESP32 by Espressif Systems"<li>
+3. Install "ESP32 by Espressif Systems"<li>
 
-Wait for installation to complete
+4. Wait for installation to complete
