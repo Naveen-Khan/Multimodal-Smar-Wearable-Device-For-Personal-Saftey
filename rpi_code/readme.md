@@ -21,9 +21,9 @@ The Raspberry Pi serves as the primary AI processing unit in the Wearable Securi
 Step 1: Flash Raspberry Pi OS
 1.	Download Raspberry Pi Imager: https://www.raspberrypi.com/software/
 2.	Insert microSD card (minimum 16GB)
-3.	Select:
-  o	OS: Raspberry Pi OS (64-bit)
-  o	Storage: Your microSD card
+3.	Select:<br>
+  o	OS: Raspberry Pi OS (64-bit)<br>
+  o	Storage: Your microSD card<br>
   o	Settings (⚙️):
       	Enable SSH<li>
          Set username/password<li>
