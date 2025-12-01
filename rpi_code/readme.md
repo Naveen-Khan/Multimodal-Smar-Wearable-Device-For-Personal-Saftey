@@ -25,9 +25,9 @@ Step 1: Flash Raspberry Pi OS
   o	OS: Raspberry Pi OS (64-bit)
   o	Storage: Your microSD card
   o	Settings (⚙️):
-      	Enable SSH
-         Set username/password
-         Configure WiFi (optional)
-       	Set locale settings
+      	Enable SSH<li>
+         Set username/password<li>
+         Configure WiFi (optional)<li>
+        	Set locale settings<li>
 4.	Click Write and wait for completion
 
