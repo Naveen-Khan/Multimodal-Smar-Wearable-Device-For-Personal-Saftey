@@ -83,3 +83,14 @@ sudo apt install python3-opencv python3-picamera2 -y
 ```bash
 pip3 install ultralytics torch torchvision numpy
 ```
+
+# Directory Structure
+```bash
+weapon-detection-rpi/
+├── weapon_detection.py          # Main detection script
+├── models/
+│   └── best.pt                 # Trained YOLOv8 model
+├── outputs/                    # Detection outputs
+├── samples/                    # Test images/videos
+└── README.md                   # This file
+```
