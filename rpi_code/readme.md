@@ -16,4 +16,18 @@ The Raspberry Pi serves as the primary AI processing unit in the Wearable Securi
 4. PyTorch: 2.0+ (for YOLOv8)
 5. Ultralytics
 6. picamera2
-   
+
+⚙️ **SYSTEM SETUP**
+Step 1: Flash Raspberry Pi OS
+1.	Download Raspberry Pi Imager: https://www.raspberrypi.com/software/
+2.	Insert microSD card (minimum 16GB)
+3.	Select:
+  o	OS: Raspberry Pi OS (64-bit)
+  o	Storage: Your microSD card
+  o	Settings (⚙️):
+      	Enable SSH
+         Set username/password
+         Configure WiFi (optional)
+       	Set locale settings
+4.	Click Write and wait for completion
+
