@@ -7,16 +7,13 @@ This ESP32 module serves as the central alert management system for the Multimod
  GPS Data Acquisition – Reads real-time coordinates from NEO-6M module<li>
  SMS Alert Transmission – Sends emergency messages via GSM800L<li>
  Manual Input Handling – Processes panic button and voice commands<li>
- System Coordination – Manages WiFi communication with Raspberry Pi<li>
+ System Coordination – Manages WiFi communication with Raspberry Pi
 
-**The ESP32 processes emergency events and sends a detailed alert including:**
-•	Event Type (Weapon / Voice Command / Panic Button)
-
-•	Live GPS coordinates
-
-•	Google Maps clickable link
-
-•	Timestamp
+**The ESP32 processes emergency events and sends a detailed alert including:**<li>
+	Event Type (Weapon / Voice Command / Panic Button)<li>
+	Live GPS coordinates<li>
+ Google Maps clickable link<li>
+ Timestamp<li>
 
 
 # ▶️ 5. HOW TO RUN THE ESP32 CODE (Step-by-Step)
