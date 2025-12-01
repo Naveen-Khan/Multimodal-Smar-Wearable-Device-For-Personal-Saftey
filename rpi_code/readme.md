@@ -1,5 +1,4 @@
-# 
-🖥️ RASPBERRY PI – Weapon Detection & Evidence Capture System
+# 🖥️ RASPBERRY PI – Weapon Detection & Evidence Capture System
 **🎯 OVERVIEW**
 The Raspberry Pi serves as the primary AI processing unit in the Wearable Security System. It runs real-time weapon detection using YOLOv8, manages camera operations, coordinates with ESP32 via TCP, and handles evidence storage.
 
@@ -9,3 +8,12 @@ The Raspberry Pi serves as the primary AI processing unit in the Wearable Securi
 3. Emergency Coordination – Communicates with ESP32 via TCP
 4. System Monitoring – Manages hardware resources and logging
 5. User Interface – Optional GUI/CLI for system control
+
+**Software Requirements:**
+1. Operating System: Raspberry Pi OS (64-bit) Bullseye
+2. Python Version: 3.9+
+3. OpenCV: 4.5+
+4. PyTorch: 2.0+ (for YOLOv8)
+5. Ultralytics
+6. picamera2
+   
