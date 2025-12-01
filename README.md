@@ -22,7 +22,7 @@ This makes it ideal for:
 •	Women & student safety  
 
 
-# 🔧 Hardware Used
+# 🔧 1. Hardware Used
 1.	Raspberry Pi 4 model b
 2. ESP32
 3. OV5647 Camera
@@ -34,13 +34,13 @@ This makes it ideal for:
 
 
 # ⭐ 2. Key Features
-##🔫 Weapon Detection using AI (YOLOv8 )
+**🔫 Weapon Detection using AI (YOLOv8 )**
 - Gun and knife detection  
 - High accuracy using custom-trained model  
 - Real-time inference on Raspberry Pi 4  
 - Evidence image captured instantly  
 
-## 🎤 Voice Command Recognition (VR3)
+ 🎤 **Voice Command Recognition (VR3)**
 Recognizes multilingual commands:
 - Help (English)
 - Bachao (Urdu)
