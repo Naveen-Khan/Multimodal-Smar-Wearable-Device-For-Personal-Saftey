@@ -33,21 +33,21 @@ This makes it ideal for:
 
 
 
-#⭐ 2. Key Features
- 🔫 Weapon Detection using AI (YOLOv8 )
+# ⭐ 2. Key Features
+##🔫 Weapon Detection using AI (YOLOv8 )
 - Gun and knife detection  
 - High accuracy using custom-trained model  
 - Real-time inference on Raspberry Pi 4  
 - Evidence image captured instantly  
 
-# 🎤 Voice Command Recognition (VR3)
+## 🎤 Voice Command Recognition (VR3)
 Recognizes multilingual commands:
 - Help (English)
 - Bachao (Urdu)
 - Maddad (Urdu)  
 No internet required (hardware-based recognition).
 
-# 🚨 **Panic Button Trigger**
+## 🚨 **Panic Button Trigger**
 - Instant emergency detection  
 - Works even if AI or voice commands are not triggered  
 
