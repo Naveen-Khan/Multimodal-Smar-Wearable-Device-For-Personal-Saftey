@@ -67,8 +67,8 @@ sudo apt install -y python3 python3-pip python3-venv
 ```
  2. Create virtual environment
 ```bash
-python3 -m venv ~/security-env
-source ~/security-env/bin/activate
+python3 -m venv ~/myvenv
+source ~/myvenv/bin/activate
 ```
  3. Upgrade pip
 ```bash
@@ -96,5 +96,6 @@ weapon-detection-rpi/
 ```
  **Run Detection Script**
  ```bash
+cd weapon-detection-rpi
 python3 weapon_detection.py
 ```
