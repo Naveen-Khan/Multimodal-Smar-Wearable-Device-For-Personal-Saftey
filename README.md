@@ -6,3 +6,17 @@ The system detects emergencies via three input channels:
 1. AI-based Weapon Detection (Gun/Knife using YOLOv8 & YOLO11)  
 2. Multilingual Voice Recognition (“Help”, “Bachao”, “Maddad”)  
 3. Physical Panic Button Trigger
+
+
+When triggered:
+•	Raspberry Pi   **captures an evidence image**
+•	ESP32 reads **live GPS coordinates**
+•	ESP32 sends **SMS with event type + Google Maps link**
+•	System returns to monitoring mode automatically
+
+This makes it ideal for:
+•	Kidnapping attempts  
+•	Robbery / armed assault  
+•	Violence or harassment  
+•	Emergency medical conditions  
+•	Women & student safety  
