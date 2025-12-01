@@ -53,3 +53,14 @@ Step 5: Board Configuration
 
 Select Board: Tools → Board → ESP32 Dev Module
 
+Step 6: Upload Code
+
+Open the ESP32 sketch file (esp32_alert_system.ino)
+
+Click Upload button (→ arrow icon)
+
+Wait for "Done uploading" message
+
+Open Serial Monitor (Tools → Serial Monitor)
+
+Set baud rate to 115200
