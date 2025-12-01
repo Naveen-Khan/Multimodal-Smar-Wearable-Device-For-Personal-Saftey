@@ -22,7 +22,7 @@ This makes it ideal for:
 •	Women & student safety  
 
 
-#🔧 Hardware Used
+# 🔧 Hardware Used
 •	Raspberry Pi 4 model b
 •	ESP32
 •	OV5647 Camera
