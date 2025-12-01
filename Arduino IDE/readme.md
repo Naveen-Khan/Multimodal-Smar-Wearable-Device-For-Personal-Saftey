@@ -16,14 +16,16 @@ This ESP32 module serves as the central alert management system for the Multimod
  Timestamp<li>
 
 
-# ⚙️ SOFTWARE SETUP
+# ⚙️ Software Setup
 Step 1: Install Arduino IDE
 Download and install from:
 📥 https://www.arduino.cc/en/software
 
 Step 2: Add ESP32 Board Support
-Open Arduino IDE
+1. Open Arduino IDE
 
-Go to File → Preferences
+2. Go to File → Preferences
 
-In "Additional Board Manager URLs", add:
+3. In "Additional Board Manager URLs", add:
+      https://espressif.github.io/arduino-esp32/package_esp32_index.json
+4. Click OK
