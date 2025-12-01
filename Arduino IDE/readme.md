@@ -40,9 +40,10 @@ Step 4: Install Required Libraries
 Go to Sketch → Include Library → Manage Libraries
 Install these libraries (search and install):
 
-Library	Purpose	Version
-TinyGPSPlus	GPS data parsing	1.0.3+
-ArduinoJson	JSON handling	6.21+
-WiFi	Built-in (already included)	-
-HTTPClient	Built-in (already included)
+Library	Purpose	Version<li>
+TinyGPSPlus<li>
+ArduinoJson	<li>
+WiFi	<li>
+HTTPClient<li>
+VoiceRecognition
 
