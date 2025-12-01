@@ -1,7 +1,7 @@
 
 # 🚀 Overview
-This ESP32 module is a core part of the Multimodal Smart Wearable Device for Personal Safety.
-Its job is to:
+**This ESP32 module is a core part of the Multimodal Smart Wearable Device for Personal Safety.
+Its job is to:**
 •	Read GPS module data (live coordinates)
 •	Receive emergency trigger messages from Raspberry Pi
 •	Send SMS alerts through GSM800L
@@ -13,3 +13,9 @@ The ESP32 processes emergency events and sends a detailed alert including:
 •	Live GPS coordinates
 •	Google Maps clickable link
 •	Timestamp
+
+
+# ▶️ 5. HOW TO RUN THE ESP32 CODE (Step-by-Step)
+🔹 Step 1 — Install Arduino IDE
+   Download from:
+       https://www.arduino.cc/en/software
