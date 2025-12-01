@@ -17,26 +17,27 @@ This ESP32 module serves as the central alert management system for the Multimod
 
 
 # ⚙️ Software Setup
-Step 1: Install Arduino IDE
+**Step 1: Install Arduino IDE**
 Download and install from:
 📥 https://www.arduino.cc/en/software
 
-Step 2: Add ESP32 Board Support
+**Step 2: Add ESP32 Board Support**
 1. Open Arduino IDE
 
 2. Go to File → Preferences
 
 3. In "Additional Board Manager URLs", add:
+   
       https://espressif.github.io/arduino-esp32/package_esp32_index.json
 4. Click OK
 
-Step 3: Install ESP32 Boards
+**Step 3: Install ESP32 Boards**
 1. Go to Tools → Board → Boards Manager
 2. Search for "esp32"
 3. Install "ESP32 by Espressif Systems"
 4. Wait for installation to complete
 
-Step 4: Install Required Libraries
+**Step 4: Install Required Libraries**
 
 Go to Sketch → Include Library → Manage Libraries
 Install these libraries (search and install):
@@ -49,18 +50,14 @@ Libraries
   HTTPClient<li>
   VoiceRecognition
 
-Step 5: Board Configuration
+**Step 5: Board Configuration**
 
 Select Board: Tools → Board → ESP32 Dev Module
 
-Step 6: Upload Code
+**Step 6: Upload Code**
 
-Open the ESP32 sketch file (esp32_alert_system.ino)
-
-Click Upload button (→ arrow icon)
-
-Wait for "Done uploading" message
-
-Open Serial Monitor (Tools → Serial Monitor)
-
-Set baud rate to 115200
+1. Open the ESP32 sketch file (esp32_alert_system.ino)
+2. Click Upload button (→ arrow icon)
+3. Wait for "Done uploading" message
+4. Open Serial Monitor (Tools → Serial Monitor)
+5.Set baud rate to 115200
