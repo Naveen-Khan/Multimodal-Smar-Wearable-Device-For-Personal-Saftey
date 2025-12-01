@@ -77,3 +77,4 @@ No internet required (hardware-based recognition).
 - Fully encrypted local network  
 
 
+<img src="img2.png">
