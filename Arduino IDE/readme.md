@@ -37,13 +37,15 @@ Step 3: Install ESP32 Boards
 4. Wait for installation to complete
 
 Step 4: Install Required Libraries
+
 Go to Sketch → Include Library → Manage Libraries
 Install these libraries (search and install):
 
-Library	Purpose	Version<li>
-TinyGPSPlus<li>
-ArduinoJson	<li>
-WiFi	<li>
-HTTPClient<li>
-VoiceRecognition
+Libraries
+<li>
+  TinyGPSPlus<li>
+  ArduinoJson	<li>
+  WiFi	<li>
+  HTTPClient<li>
+  VoiceRecognition
 
