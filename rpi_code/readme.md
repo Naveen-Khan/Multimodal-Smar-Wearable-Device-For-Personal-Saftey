@@ -38,9 +38,8 @@ Run the following command:
 sudo raspi-config
 ```
 ⚙️ **Recommended Settings**
-System Options → Change default password
 
-Interface Options → Enable Camera
+1. Interface Options → Enable Camera
 
-Interface Options → Enable SSH
+2. Interface Options → Enable SSH
 
