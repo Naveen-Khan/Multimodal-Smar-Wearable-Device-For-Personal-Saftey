@@ -76,7 +76,7 @@ No internet required (hardware-based recognition).
 - TCP socket communication  
 - Fully encrypted local network  
 
-System Arcitecture
+# System Arcitecture
 
 <img src="img2.png">
 
