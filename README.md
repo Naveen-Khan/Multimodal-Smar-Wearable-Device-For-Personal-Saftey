@@ -33,8 +33,8 @@ This makes it ideal for:
 
 
 
-⭐ 2. Key Features
- 🔫 Weapon Detection using AI (YOLOv8 & YOLO11)
+#⭐ 2. Key Features
+ 🔫 Weapon Detection using AI (YOLOv8 )
 - Gun and knife detection  
 - High accuracy using custom-trained model  
 - Real-time inference on Raspberry Pi 4  
