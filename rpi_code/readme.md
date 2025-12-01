@@ -36,3 +36,11 @@ Step 2: Initial Configuration
 Run the following command:
 ```bash
 sudo raspi-config
+```
+⚙️ Recommended Settings
+System Options → Change default password
+
+Interface Options → Enable Camera
+
+Interface Options → Enable SSH
+
