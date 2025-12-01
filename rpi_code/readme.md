@@ -43,3 +43,15 @@ sudo raspi-config
 
 2. Interface Options → Enable SSH
 
+**Step 3: Update System**
+ Update package lists
+```bash
+sudo apt update
+sudo apt upgrade -y
+```
+ Install essential tools
+```bash
+sudo apt install -y git curl wget vim tmux htop
+```
+
+
