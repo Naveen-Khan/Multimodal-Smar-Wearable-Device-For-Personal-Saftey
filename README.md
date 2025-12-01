@@ -47,12 +47,12 @@ Recognizes multilingual commands:
 - Maddad (Urdu)  
 No internet required (hardware-based recognition).
 
-## 🚨 **Panic Button Trigger**
+ 🚨 **Panic Button Trigger**
 - Instant emergency detection  
 - Works even if AI or voice commands are not triggered  
 
 
-#📍 **Live GPS Tracking**
+📍 **Live GPS Tracking**
 - Uses NEO-6M GPS  
 - Accurate up to 3–5 meters  
 - Included as clickable Google Maps link  
