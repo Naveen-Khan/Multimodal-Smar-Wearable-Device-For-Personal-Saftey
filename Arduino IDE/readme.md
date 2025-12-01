@@ -45,3 +45,4 @@ TinyGPSPlus	GPS data parsing	1.0.3+
 ArduinoJson	JSON handling	6.21+
 WiFi	Built-in (already included)	-
 HTTPClient	Built-in (already included)
+
