@@ -23,6 +23,9 @@ The ESP32 processes emergency events and sends a detailed alert including:
 
 
 # ▶️ 5. HOW TO RUN THE ESP32 CODE (Step-by-Step)
-🔹 Step 1 — Install Arduino IDE
-   Download from:
+🔹 Step 1 — Install Arduino IDE Download from:
        https://www.arduino.cc/en/software
+       
+🔹 Step 2 — Add ESP32 Board
+Arduino IDE →
+File → Preferences → Additional Board URLs:
