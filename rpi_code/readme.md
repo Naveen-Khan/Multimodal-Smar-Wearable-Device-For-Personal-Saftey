@@ -17,7 +17,7 @@ The Raspberry Pi serves as the primary AI processing unit in the Wearable Securi
 5. Ultralytics
 6. picamera2
 
-#⚙️ **SYSTEM SETUP**
+# ⚙️ **SYSTEM SETUP**
 Step 1: Flash Raspberry Pi OS
 1.	Download Raspberry Pi Imager: https://www.raspberrypi.com/software/
 2.	Insert microSD card (minimum 16GB)
@@ -31,7 +31,8 @@ Step 1: Flash Raspberry Pi OS
         *	Set locale settings<br>
 4.	Click Write and wait for completion
 
-## 🖥️ First Boot - Complete Setup
+Step 2: Initial Configuration
+🖥️ First Boot - Complete Setup
 Run the following command:
 ```bash
 sudo raspi-config
