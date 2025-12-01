@@ -1,5 +1,6 @@
 # 🖥️ RASPBERRY PI – Weapon Detection & Evidence Capture System
-**🎯 OVERVIEW**
+#🎯 OVERVIEW
+
 The Raspberry Pi serves as the primary AI processing unit in the Wearable Security System. It runs real-time weapon detection using YOLOv8, manages camera operations, coordinates with ESP32 via TCP, and handles evidence storage.
 
 **Primary Functions:**
@@ -32,7 +33,9 @@ The Raspberry Pi serves as the primary AI processing unit in the Wearable Securi
 4.	Click Write and wait for completion
 
 **Step 2: Initial Configuration**
+
 🖥️ First Boot - Complete Setup
+
 Run the following command:
 ```bash
 sudo raspi-config
