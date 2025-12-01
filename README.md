@@ -20,3 +20,13 @@ This makes it ideal for:
 •	Violence or harassment  
 •	Emergency medical conditions  
 •	Women & student safety  
+
+
+#🔧 Hardware Used
+•	Raspberry Pi 4 model b
+•	ESP32
+•	OV5647 Camera
+•	VR3 Voice Recognition Module
+•	NEO-6M GPS
+•	GSM800L
+•	Buttons, Wires, Power Unit
