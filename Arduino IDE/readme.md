@@ -61,3 +61,7 @@ Select Board: Tools → Board → ESP32 Dev Module
 3. Wait for "Done uploading" message
 4. Open Serial Monitor (Tools → Serial Monitor)
 5. Set baud rate to 115200
+
+# Hardware circuit
+<img src="cicuit diagram/Picture1.png">
+
