@@ -12,9 +12,9 @@ The Raspberry Pi serves as the primary AI processing unit in the Wearable Securi
 
 **Software Requirements:**
 1. Operating System: Raspberry Pi OS (64-bit) Bullseye
-2. Python Version: 3.9+
-3. OpenCV: 4.5+
-4. PyTorch: 2.0+ (for YOLOv8)
+2. Python Version: 3.11+
+3. OpenCV: 
+4. PyTorch:  (for YOLOv8)
 5. Ultralytics
 6. picamera2
 
