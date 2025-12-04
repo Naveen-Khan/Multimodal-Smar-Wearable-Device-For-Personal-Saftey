@@ -63,5 +63,5 @@ Select Board: Tools → Board → ESP32 Dev Module
 5. Set baud rate to 115200
 
 # Hardware circuit
-<img src="cicuit_diagram/Picture1.png">
+<img src="circuit_diagram/Picture1.png">
 
