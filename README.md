@@ -81,7 +81,8 @@ No internet required (hardware-based recognition).
 <img src="img2.png">
 
 # **Development Tools**
-- Google Colab (Model Training)  
+- Google Colab (Model Training)
+- python
 - VS Code  
 - Arduino IDE
 - Raspberry pi imager
