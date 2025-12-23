@@ -91,4 +91,4 @@ No internet required (hardware-based recognition).
 
 
  # Video Demo
-[![Project Demo](images/demo_thumbnail.png)](images/Media1.mp4)
+[![Project Demo](images/demo_thumbnail.png)](images/demo_vedio.mp4)
