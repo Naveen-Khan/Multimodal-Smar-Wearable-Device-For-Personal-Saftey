@@ -86,8 +86,9 @@ No internet required (hardware-based recognition).
 - VS Code  
 - Arduino IDE
 - Raspberry pi imager
-
- #Video Demo
- 
 - Sd card formatar
 - Vnc Veiwer
+
+
+ #Video Demo
+[![Project Demo](images/demo-thumbnail.png)](images/demo.mp4)
