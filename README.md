@@ -90,5 +90,5 @@ No internet required (hardware-based recognition).
 - Vnc Veiwer
 
 
- #Video Demo
+ # Video Demo
 [![Project Demo](images/demo_thumbnail.png)](images/demo.mp4)
