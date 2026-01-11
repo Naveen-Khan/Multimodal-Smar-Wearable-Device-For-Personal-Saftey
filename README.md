@@ -91,4 +91,6 @@ No internet required (hardware-based recognition).
 
 
  # Video Demo
-[![Project Demo](images/demo_thumbnail.png)](images/demo_vedio.mp4)
+
+
+<video src="images/demo_vedio.mp4" controls width="640"> Your browser does not support the video tag. </video>
